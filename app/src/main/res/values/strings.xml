@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Review</string>
+    <string name="director">Director</string>
+    <string name="actors">Actors</string>
+    <string name="genres">Genres</string>
+    <string name="plot">Plot</string>
+    <string name="ratemovie">Rate Movie</string>
+    <string name="ratethismovie">Rate This Movie</string>
+    <string name="addedRating">Rating was added</string>
+</resources>
